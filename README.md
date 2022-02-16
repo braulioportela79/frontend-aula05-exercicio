@@ -3,7 +3,7 @@
 # Instruções
 
 1. Crie um novo arquivo html.
-2. Abra o arquivo que acabou de criar dentro do Visual Studio Code.
+2. Abra o arquivo que acabou de criar dentro do Visual Studio Code./n
 3. Após o arquivo html estar criado, realize os seguintes passos:
   a. Crie uma tag h1 para o título da nossa página;
   b. Defina uma breve descrição para a página utilizando a tag p;
